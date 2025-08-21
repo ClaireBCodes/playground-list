@@ -1,0 +1,69 @@
+{
+  "playgrounds": [
+    {
+      "id": 1,
+      "name": "Bureau Park",
+      "town": "Katoomba",
+      "playEquip": [
+        "swings",
+        "slides",
+        "climbing frame",
+        "monkey bars"
+      ],
+      "facilities": [
+        "Toilet",
+        "Picnic table"
+      ],
+      "fence": false,
+      "parking": "carpark",
+      "shade": "medium",
+      "comments": "plenty of running around space",
+      "imageLinks": ["imagehosting.com.1", "imagehosting.com.2"],
+      "googleMapLocation": "howeverThisIsStored"
+    },
+    {
+      "id": 2,
+      "name": "Grose Street Park",
+      "town": "Leura",
+      "playEquip": [
+        "climbing frame",
+        "slide",
+        "swings"
+      ],
+      "facilities": [
+        "Bench seat"
+      ],
+      "fence": false,
+      "parking": "street",
+      "shade": "high",
+      "comments": "Next to traffic with no fence. Hard to get parking when Leura busy. Some grassy space",
+      "imageLinks": [],
+      "googleMapLocation": "https://maps.app.goo.gl/bHgzxZXxLY1NqDnP6"
+    },
+    {
+      "id": 3,
+      "name": "Bloome Park",
+      "town": "Leura",
+      "playEquip": [
+        "climbing frame",
+        "slide",
+        "swings"
+      ],
+      "facilities": [
+        "Picnic tables",
+        "Benches"
+      ],
+      "fence": false,
+      "parking": "street",
+      "shade": "medium",
+      "comments": "Lots of space. Shade but not over play equipment. On quiet road with minimal traffic. Room to run around",
+      "imageLinks": [],
+      "googleMapLocation": "https://maps.app.goo.gl/uRR9GE6ZyQNYVQMn8"
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "lastUpdated": "2025-08-21",
+    "totalPlaygrounds": 3
+  }
+}
