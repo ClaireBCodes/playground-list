@@ -4,60 +4,41 @@
       "id": 1,
       "name": "Bureau Park",
       "town": "Katoomba",
-      "playEquip": [
-        "swings",
-        "slides",
-        "climbing frame",
-        "monkey bars"
-      ],
-      "facilities": [
-        "Toilet",
-        "Picnic table"
-      ],
+      "playEquip": ["swings", "slides", "climbing frame", "monkey bars"],
+      "facilities": ["Toilet", "Picnic table"],
       "fence": false,
       "parking": "carpark",
       "shade": "medium",
       "comments": "plenty of running around space",
-      "imageLinks": ["imagehosting.com.1", "imagehosting.com.2"],
+      "imageLinks": [],
       "googleMapLocation": "howeverThisIsStored"
     },
     {
       "id": 2,
       "name": "Grose Street Park",
       "town": "Leura",
-      "playEquip": [
-        "climbing frame",
-        "slide",
-        "swings"
-      ],
-      "facilities": [
-        "Bench seat"
-      ],
+      "playEquip": ["climbing frame", "slide", "swings"],
+      "facilities": ["Bench seat"],
       "fence": false,
       "parking": "street",
       "shade": "high",
       "comments": "Next to traffic with no fence. Hard to get parking when Leura busy. Some grassy space",
-      "imageLinks": [],
+      "imageLinks": ["https://i.imgur.com/zHiWgkO.jpeg"],
       "googleMapLocation": "https://maps.app.goo.gl/bHgzxZXxLY1NqDnP6"
     },
     {
       "id": 3,
       "name": "Bloome Park",
       "town": "Leura",
-      "playEquip": [
-        "climbing frame",
-        "slide",
-        "swings"
-      ],
-      "facilities": [
-        "Picnic tables",
-        "Benches"
-      ],
+      "playEquip": ["climbing frame", "slide", "swings"],
+      "facilities": ["Picnic tables", "Benches"],
       "fence": false,
       "parking": "street",
       "shade": "medium",
       "comments": "Lots of space. Shade but not over play equipment. On quiet road with minimal traffic. Room to run around",
-      "imageLinks": [],
+      "imageLinks": [
+        "https://s3.playgroundfinder.com/files/styles/768x576/s3/playimage-7419.jpg?VersionId=Iavr0pO04J04CIjV3bk7gYykatYE63vG&itok=6Ejc0zsP"
+      ],
       "googleMapLocation": "https://maps.app.goo.gl/uRR9GE6ZyQNYVQMn8"
     }
   ],

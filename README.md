@@ -50,7 +50,8 @@ later, especially as I add photos and hopefully get some traffic.
 
 ## future
 add Bells Line of Road and Lithgow area
+Add a map page showing all the playgrounds with links to their modal cards and Google maps. Either an image or a google map
 See if I can get some advertising from local businesses like cafes 
 KoFi or donations page for hosting costs
-
+search engine considerations
 
